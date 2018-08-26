@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BudgetApp</string>
+    <string name="add_cat">Enter the Category name.</string>
+    <string name="add_item">Enter the Item name and the amount.</string>
+    <string name="delete_cat">Do you want to delete Category: </string>
+    <string name="delete_item">Do you want to delete Item:</string>
+    <string name="delete_all">Do you want to delete all Items in </string>
+    <string name="name">name</string>
+    <string name="amount">amount</string>
+    <string name="success">Data Saved!</string>
+    <string name="error">Something went wrong!</string>
+    <string name="item_hint">Item Name</string>
+    <string name ="cat_hint">Category Name</string>
+    <string name="amount_hint">Amount</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="uploading">UPLOADING</string>
+    <string name="dollar">$</string>
+    <string name="update_item">Update item: </string>
+    <string name="new_amount">New Amount</string>
+    <string name="amount_missing">Please enter an amount</string>
+    <string name="name_missing">Please enter a name</string>
+    <string name="input">Only integers</string>
+    <string name="replicate_cat">Category already exist!</string>
+    <string name="replicate_item">Item already exist!</string>
+</resources>
